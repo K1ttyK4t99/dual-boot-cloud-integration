@@ -1,7 +1,7 @@
 # Network Troubleshooting – Windows Partition and Mobile DNS Repair
 
 **Project:** Dual-Boot Secure Workstation  
-**Engineer:** Katherine Dendekker – CTO  
+**Engineer:** Katherine Dendekker  
 **Date:** October 2025
 
 ---
