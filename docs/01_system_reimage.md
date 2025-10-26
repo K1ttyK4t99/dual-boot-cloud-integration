@@ -35,7 +35,7 @@ The goal of this phase was to completely re-image the client’s laptop to ensur
    - Loaded **Ventoy** onto a 32GB USB drive.
    - Added:
      - `Windows_11.iso`
-     - `Linux_Mint_21.3.iso`
+     - `linuxmint-22.2-xfce-64bit.iso`
    - Verified both booted successfully using a test VM.
 
 3. **BIOS/UEFI Configuration**
