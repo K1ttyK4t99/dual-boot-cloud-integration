@@ -20,7 +20,7 @@ This repository documents the process of setting up a **Windows + Linux dual-boo
 | File | Description |
 |------|--------------|
 | [`docs/01_system_reimage.md`](docs/01_system_reimage.md) | Step-by-step system reimaging and OS installation |
-| [`docs/02_dualboot_configuration.md`](docs/02_dualboot_configuration.md) | Bootloader and partition setup |
+| [`docs/02_network_troubleshooting.md`](docs/02_network_troubleshooting.md) | Troubleshooting network issues on client laptop and phone |
 | [`docs/03_linux_environment.md`](docs/03_linux_environment.md) | Linux desktop and system configuration |
 | [`docs/04_nextcloud_integration.md`](docs/04_nextcloud_integration.md) | Nextcloud + Google Drive synchronization setup |
 | [`docs/05_security_and_mfa.md`](docs/05_security_and_mfa.md) | MFA, SSH, GPG, and hardware key setup |
